@@ -4,9 +4,9 @@
     "transaction_date": "2024-06-29T00:00:00Z",
     "amount": 50.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 1 Conta: 68805519-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -14,9 +14,9 @@
     "transaction_date": "2024-06-29T00:00:00Z",
     "amount": 950.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 1 Conta: 68805519-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -34,9 +34,9 @@
     "transaction_date": "2024-07-02T00:00:00Z",
     "amount": 1600.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 1 Conta: 68805519-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -84,9 +84,9 @@
     "transaction_date": "2024-07-10T00:00:00Z",
     "amount": 330.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -194,9 +194,9 @@
     "transaction_date": "2024-07-17T00:00:00Z",
     "amount": 500.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -264,9 +264,9 @@
     "transaction_date": "2024-08-20T00:00:00Z",
     "amount": 60.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -284,9 +284,9 @@
     "transaction_date": "2024-08-20T00:00:00Z",
     "amount": 330.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -294,9 +294,9 @@
     "transaction_date": "2024-09-03T00:00:00Z",
     "amount": -200.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - 99PAY IP S.A. Agência: 1 Conta: 23219107-7",
+    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - 99PAY IP S.A. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -314,9 +314,9 @@
     "transaction_date": "2024-09-12T00:00:00Z",
     "amount": 330.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -324,10 +324,10 @@
     "transaction_date": "2024-09-15T00:00:00Z",
     "amount": -14.9,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Pagarme Pagamentos SA - 18.727.053/0001-74 - STONE IP S.A. (0197) Agência: 1 Conta: 16714636-4",
+    "description": "Transferência enviada pelo Pix - Pagarme Pagamentos SA - 00.000.000/0001-00 - STONE IP S.A. (0197) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Pagarme Pagamentos SA",
-    "document": "18.727.053/0001-74"
+    "document": "***.000.000-**"
   },
   {
     "guid": "66ea4054-fe8d-4fa3-af0d-cb40485158d4",
@@ -344,9 +344,9 @@
     "transaction_date": "2024-09-17T00:00:00Z",
     "amount": 440.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - 99PAY IP S.A. Agência: 1 Conta: 23219107-7",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - 99PAY IP S.A. Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -364,9 +364,9 @@
     "transaction_date": "2024-09-28T00:00:00Z",
     "amount": -460.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -384,9 +384,9 @@
     "transaction_date": "2024-10-18T00:00:00Z",
     "amount": 200.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -404,9 +404,9 @@
     "transaction_date": "2024-10-19T00:00:00Z",
     "amount": 176.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 1 Conta: 68805519-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - PICPAY (0380) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -414,7 +414,7 @@
     "transaction_date": "2024-11-05T00:00:00Z",
     "amount": -20.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Elias de Jesus Rodrigues - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência enviada pelo Pix - Elias de Jesus Rodrigues - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Elias de Jesus Rodrigues",
     "document": "N/A"
@@ -424,9 +424,9 @@
     "transaction_date": "2024-11-09T00:00:00Z",
     "amount": 220.1,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -464,7 +464,7 @@
     "transaction_date": "2024-11-09T00:00:00Z",
     "amount": -31.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Monica Mafra - •••.134.396-•• - BANCO INTER (0077) Agência: 1 Conta: 24394986-3",
+    "description": "Transferência enviada pelo Pix - Monica Mafra - •••.134.396-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Monica Mafra",
     "document": "N/A"
@@ -474,9 +474,9 @@
     "transaction_date": "2024-11-12T00:00:00Z",
     "amount": 635.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 27 Conta: 27107358-6",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -754,10 +754,10 @@
     "transaction_date": "2024-11-27T00:00:00Z",
     "amount": -25.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6746e8da-e132-4601-be8a-b134a01a4104",
@@ -774,10 +774,10 @@
     "transaction_date": "2024-11-27T00:00:00Z",
     "amount": -1000.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6746edb8-a611-436d-9a38-7da859bf5818",
@@ -794,10 +794,10 @@
     "transaction_date": "2024-11-27T00:00:00Z",
     "amount": -1000.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6747be59-a126-4acc-baa3-d786e39e756a",
@@ -824,39 +824,39 @@
     "transaction_date": "2024-11-29T00:00:00Z",
     "amount": -9798.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN INSTITUICAO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "674945c8-6e73-418b-969e-de7fd4d30d12",
     "transaction_date": "2024-11-29T00:00:00Z",
     "amount": 15.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MERCADO BITCOIN INSTITUIÇÃO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência recebida pelo Pix - MERCADO BITCOIN INSTITUIÇÃO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6750ef66-42ac-477a-a20b-1294525b7486",
     "transaction_date": "2024-12-04T00:00:00Z",
     "amount": 4.85,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MERCADO BITCOIN INSTITUIÇÃO DE PAGAMENTOS LTDA - 11.351.086/0001-13 - BANCO BTG PACTUAL S.A. (0208) Agência: 30 Conta: 247923-8",
+    "description": "Transferência recebida pelo Pix - MERCADO BITCOIN INSTITUIÇÃO DE PAGAMENTOS LTDA - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6758ce48-6434-47e1-8782-bf1c8ee76087",
     "transaction_date": "2024-12-10T00:00:00Z",
     "amount": 635.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -864,30 +864,30 @@
     "transaction_date": "2024-12-11T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "675935b9-fa39-44e4-8adf-2459969e1089",
     "transaction_date": "2024-12-11T00:00:00Z",
     "amount": -645.2,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "675ece10-2258-4c73-bd62-0e0591729075",
     "transaction_date": "2024-12-15T00:00:00Z",
     "amount": 368.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "675ece1b-1dde-4947-9084-bfb520c7ef4e",
@@ -904,9 +904,9 @@
     "transaction_date": "2024-12-23T00:00:00Z",
     "amount": 561.22,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -914,29 +914,29 @@
     "transaction_date": "2024-12-31T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "677e41cf-a3f7-4caa-ba3e-6dedc761a0c3",
     "transaction_date": "2025-01-08T00:00:00Z",
     "amount": -450.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6781a2d9-e137-4150-9bf3-06cfec02548a",
     "transaction_date": "2025-01-10T00:00:00Z",
     "amount": 635.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 27 Conta: 27107358-6",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -944,30 +944,30 @@
     "transaction_date": "2025-01-12T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "678532ad-8b73-4e67-b74f-d52ec977075a",
     "transaction_date": "2025-01-13T00:00:00Z",
     "amount": -727.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "678a65bc-9e9d-40fb-b4ad-9a8c83ab2af8",
     "transaction_date": "2025-01-17T00:00:00Z",
     "amount": 723.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "678a65e9-1d8a-4aa1-8981-8e1a96372a69",
@@ -984,19 +984,19 @@
     "transaction_date": "2025-02-06T00:00:00Z",
     "amount": 604.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67a568d6-e614-4d7b-95f6-4eed7f3fb2c2",
     "transaction_date": "2025-02-06T00:00:00Z",
     "amount": -1.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 1 Conta: 36998766-7",
+    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1004,9 +1004,9 @@
     "transaction_date": "2025-02-06T00:00:00Z",
     "amount": -603.12,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 1 Conta: 36998766-7",
+    "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1014,9 +1014,9 @@
     "transaction_date": "2025-02-06T00:00:00Z",
     "amount": 499.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 1 Conta: 36998766-7",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1024,9 +1024,9 @@
     "transaction_date": "2025-02-06T00:00:00Z",
     "amount": 1609.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1034,29 +1034,29 @@
     "transaction_date": "2025-02-07T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67a57c7f-8314-4465-a437-d60b5e5ccb78",
     "transaction_date": "2025-02-07T00:00:00Z",
     "amount": -1466.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67a5d79d-bb69-439b-acdf-1adbc0bb903c",
     "transaction_date": "2025-02-07T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Gabriel Aias Marques Mafra - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 1 Conta: 1910018261-7",
+    "description": "Transferência enviada pelo Pix - Contato Frequente B - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -1064,10 +1064,10 @@
     "transaction_date": "2025-02-17T00:00:00Z",
     "amount": 702.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67b37364-8f60-43e3-bbcc-bd145644c8f6",
@@ -1084,10 +1084,10 @@
     "transaction_date": "2025-02-19T00:00:00Z",
     "amount": 15.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67b65c07-bcbf-479c-81f0-f6965f06184e",
@@ -1104,9 +1104,9 @@
     "transaction_date": "2025-02-19T00:00:00Z",
     "amount": 367.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1124,19 +1124,19 @@
     "transaction_date": "2025-02-23T00:00:00Z",
     "amount": -361.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67bdd620-e9e8-458f-ad27-d170f8edf8b7",
     "transaction_date": "2025-02-25T00:00:00Z",
     "amount": 34.76,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 1 Conta: 36998766-7",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BCO C6 S.A. (0336) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1144,29 +1144,29 @@
     "transaction_date": "2025-03-07T00:00:00Z",
     "amount": 638.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67cb9e69-0f50-49c8-9f82-fac424e28aec",
     "transaction_date": "2025-03-07T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67cba16f-4fa4-491a-8b3c-c09350ed5de2",
     "transaction_date": "2025-03-07T00:00:00Z",
     "amount": 632.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1174,19 +1174,19 @@
     "transaction_date": "2025-03-07T00:00:00Z",
     "amount": -673.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67d7776a-cb46-4344-a4a5-510662cacf7f",
     "transaction_date": "2025-03-16T00:00:00Z",
     "amount": 635.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1204,49 +1204,49 @@
     "transaction_date": "2025-04-04T00:00:00Z",
     "amount": -50.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - OPP SERVICOS FINANCEIROS E COB - 16.944.045/0001-54 - GOWD IP LTDA. Agência: 1 Conta: 9847714067611988538-6",
+    "description": "Transferência enviada pelo Pix - OPP SERVICOS FINANCEIROS E COB - 00.000.000/0001-00 - GOWD IP LTDA. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "OPP Serviços Financeiros & Cobrança / Gowd IP",
-    "document": "16.944.045/0001-54"
+    "counterparty": "Gateway de Pagamentos IP",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f0484d-12c3-4b92-8a36-ffcca2c81c03",
     "transaction_date": "2025-04-04T00:00:00Z",
     "amount": 50.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - OPP SERVICOS FINANCEIROS E COB - 16.944.045/0001-54 - BCO BS2 S.A. (0218) Agência: 1 Conta: 1016237-2",
+    "description": "Transferência recebida pelo Pix - OPP SERVICOS FINANCEIROS E COB - 00.000.000/0001-00 - BCO BS2 S.A. (0218) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "OPP Serviços Financeiros & Cobrança / Gowd IP",
-    "document": "16.944.045/0001-54"
+    "counterparty": "Gateway de Pagamentos IP",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f13ea6-2e6f-4a21-865c-ed738b30bf28",
     "transaction_date": "2025-04-05T00:00:00Z",
     "amount": -50.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - OPP SERVICOS FINANCEIROS E COB - 16.944.045/0001-54 - GOWD IP LTDA. Agência: 1 Conta: 9847714067611988538-6",
+    "description": "Transferência enviada pelo Pix - OPP SERVICOS FINANCEIROS E COB - 00.000.000/0001-00 - GOWD IP LTDA. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "OPP Serviços Financeiros & Cobrança / Gowd IP",
-    "document": "16.944.045/0001-54"
+    "counterparty": "Gateway de Pagamentos IP",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f13f6d-572f-489c-a5ac-86cfd9f97b06",
     "transaction_date": "2025-04-05T00:00:00Z",
     "amount": 50.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - OPP SERVICOS FINANCEIROS E COB - 16.944.045/0001-54 - BCO BS2 S.A. (0218) Agência: 1 Conta: 1016237-2",
+    "description": "Transferência recebida pelo Pix - OPP SERVICOS FINANCEIROS E COB - 00.000.000/0001-00 - BCO BS2 S.A. (0218) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "OPP Serviços Financeiros & Cobrança / Gowd IP",
-    "document": "16.944.045/0001-54"
+    "counterparty": "Gateway de Pagamentos IP",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f198bc-a1db-4b8e-b304-6ba7042bff94",
     "transaction_date": "2025-04-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1254,40 +1254,40 @@
     "transaction_date": "2025-04-06T00:00:00Z",
     "amount": -1350.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f47d09-3533-42ff-b6e0-ee6d90bd3e65",
     "transaction_date": "2025-04-07T00:00:00Z",
     "amount": 631.58,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "67f47d53-9eb7-4c3f-b73a-888d2d6624b8",
     "transaction_date": "2025-04-07T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6805b2ec-6a54-4901-9fa5-6fa48538df00",
     "transaction_date": "2025-04-20T00:00:00Z",
     "amount": 665.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6805b300-cb9c-437d-979d-6395784f86fa",
@@ -1304,9 +1304,9 @@
     "transaction_date": "2025-05-03T00:00:00Z",
     "amount": 41.74,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 1 Conta: 37068761-2",
+    "description": "Transferência recebida pelo Pix - HENRI FELIPE MARQUES MAFRA - •••.357.571-•• - BANCO INTER (0077) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1314,9 +1314,9 @@
     "transaction_date": "2025-05-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1334,20 +1334,20 @@
     "transaction_date": "2025-05-08T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "681c642e-a134-4014-b3a1-96c442385038",
     "transaction_date": "2025-05-08T00:00:00Z",
     "amount": 13625.17,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6821a8b4-04a1-4971-9185-6c94ee62c84a",
@@ -1394,30 +1394,30 @@
     "transaction_date": "2025-05-12T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68229c74-35ab-4038-a851-c8df0ee59bd7",
     "transaction_date": "2025-05-12T00:00:00Z",
     "amount": -14303.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "682bd9f8-cdd8-4a59-8bf3-fa1e4971ddba",
     "transaction_date": "2025-05-19T00:00:00Z",
     "amount": 405.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "682bda0b-8076-4e4c-a2e6-3f7a48b259c3",
@@ -1444,9 +1444,9 @@
     "transaction_date": "2025-06-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1454,7 +1454,7 @@
     "transaction_date": "2025-06-05T00:00:00Z",
     "amount": 100.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "ELIAS DE JESUS RODRIGUES",
     "document": "N/A"
@@ -1464,40 +1464,40 @@
     "transaction_date": "2025-06-06T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO DE ENSINO UNIFICADO DE BRASILIA C - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "684b9630-ea7d-4d10-b241-c9e5bad76d47",
     "transaction_date": "2025-06-13T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "684b964f-137d-491b-8749-b5d36a4a61a8",
     "transaction_date": "2025-06-13T00:00:00Z",
     "amount": -734.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6853797a-1811-48ef-b136-d3a052a388f9",
     "transaction_date": "2025-06-18T00:00:00Z",
     "amount": 678.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68537988-817a-43af-b7a0-3c35dd4a6a6f",
@@ -1524,7 +1524,7 @@
     "transaction_date": "2025-06-20T00:00:00Z",
     "amount": 20.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "MONICA APARECIDA LEITE MAFRA",
     "document": "N/A"
@@ -1534,19 +1534,19 @@
     "transaction_date": "2025-06-30T00:00:00Z",
     "amount": -6.31,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Tesouro Nacional - 00.394.460/0409-50 - STN Agência: 1 Conta: 62870515-8",
+    "description": "Transferência enviada pelo Pix - Tesouro Nacional - 00.000.000/0001-00 - STN Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Tesouro Nacional",
-    "document": "00.394.460/0409-50"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68690213-8ffc-4b2b-b3f7-e5555b6a5d22",
     "transaction_date": "2025-07-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1564,27 +1564,27 @@
     "transaction_date": "2025-07-09T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "686ecc07-7b97-4d48-8465-6344c4ba9bd1",
     "transaction_date": "2025-07-09T00:00:00Z",
     "amount": -639.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "686f00d9-18b7-4ed2-b88e-a0056d618766",
     "transaction_date": "2025-07-09T00:00:00Z",
     "amount": 23.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "MONICA APARECIDA LEITE MAFRA",
     "document": "N/A"
@@ -1594,7 +1594,7 @@
     "transaction_date": "2025-07-09T00:00:00Z",
     "amount": -1.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência enviada pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "MONICA APARECIDA LEITE MAFRA",
     "document": "N/A"
@@ -1604,30 +1604,30 @@
     "transaction_date": "2025-07-14T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68758bb5-6f85-4594-abbb-d0fa7f9d020b",
     "transaction_date": "2025-07-14T00:00:00Z",
     "amount": -24.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - SHPP BRASIL INSTITUICAO DE PAG - 38.372.267/0001-82 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 3689 Conta: 13023089-6",
+    "description": "Transferência enviada pelo Pix - SHPP BRASIL INSTITUICAO DE PAG - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "SHPP BRASIL INSTITUICAO DE PAG",
-    "document": "38.372.267/0001-82"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6879e048-311e-4533-8cda-b43bd0d5085c",
     "transaction_date": "2025-07-18T00:00:00Z",
     "amount": 382.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6879e081-370a-4883-a65f-426639d5a01d",
@@ -1644,37 +1644,37 @@
     "transaction_date": "2025-07-22T00:00:00Z",
     "amount": 35.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "688026f9-7f42-4231-8db1-059916e5eef5",
     "transaction_date": "2025-07-22T00:00:00Z",
     "amount": -35.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 13.347.016/0001-17 - EBANX IP LTDA. (0383) Agência: 1 Conta: 1002101155-6",
+    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 00.000.000/0001-00 - EBANX IP LTDA. (0383) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
-    "document": "13.347.016/0001-17"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6881587f-0882-4ea0-af61-2486f6bae766",
     "transaction_date": "2025-07-23T00:00:00Z",
     "amount": 50.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "688158a2-181d-43b6-83e0-87e00f967e48",
     "transaction_date": "2025-07-23T00:00:00Z",
     "amount": -48.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Raimundo Nonato Nunes Brito - •••.771.653-•• - Nubank (0260) Agência: 1 Conta: 2255192-0",
+    "description": "Transferência enviada pelo Pix - Raimundo Nonato Nunes Brito - •••.771.653-•• - Nubank (0260) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Raimundo Nonato Nunes Brito",
     "document": "N/A"
@@ -1684,87 +1684,87 @@
     "transaction_date": "2025-07-23T00:00:00Z",
     "amount": 17.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68818b93-637d-4bad-b315-f897fae6af04",
     "transaction_date": "2025-07-23T00:00:00Z",
     "amount": -17.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - AMAZON.COM.BR - 15.436.940/0001-03 - EBANX IP LTDA. (0383) Agência: 1 Conta: 1000826894-8",
+    "description": "Transferência enviada pelo Pix - AMAZON.COM.BR - 00.000.000/0001-00 - EBANX IP LTDA. (0383) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "AMAZON.COM.BR",
-    "document": "15.436.940/0001-03"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68831339-e944-4f8e-9bc2-6deb0208c22a",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": 4.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68831394-7eb8-4c12-910f-1d9a73f5e313",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": -4.08,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA - 33.967.103/0001-84 - DLOCAL BRASIL IP S.A. Agência: 1 Conta: 2-0",
+    "description": "Transferência enviada pelo Pix - DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA - 00.000.000/0001-00 - DLOCAL BRASIL IP S.A. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA",
-    "document": "33.967.103/0001-84"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6883d43d-05ea-4fa2-8720-91d020e0c0b9",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6883d44e-8418-4662-ae10-60421e897c60",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": -12.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 13.347.016/0001-17 - EBANX IP LTDA. (0383) Agência: 1 Conta: 1002101155-6",
+    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 00.000.000/0001-00 - EBANX IP LTDA. (0383) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
-    "document": "13.347.016/0001-17"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68843059-22ce-495a-a101-8d95b4ee1b84",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": 60.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6884306e-fe30-42f1-a2af-b4c458d446a4",
     "transaction_date": "2025-07-25T00:00:00Z",
     "amount": -59.28,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CINEMARK BRASIL - 00.779.721/0001-41 - MERCADO PAGO IP LTDA. (0323) Agência: 1 Conta: 7724167297-6",
+    "description": "Transferência enviada pelo Pix - CINEMARK BRASIL - 00.000.000/0001-00 - MERCADO PAGO IP LTDA. (0323) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "CINEMARK BRASIL",
-    "document": "00.779.721/0001-41"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6887d61b-6d5c-434f-80d9-78c37272ee7f",
     "transaction_date": "2025-07-28T00:00:00Z",
     "amount": 20.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "ELIAS DE JESUS RODRIGUES",
     "document": "N/A"
@@ -1774,49 +1774,49 @@
     "transaction_date": "2025-07-29T00:00:00Z",
     "amount": 60.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68886351-10f4-45f3-8aa0-4151d51a17b6",
     "transaction_date": "2025-07-29T00:00:00Z",
     "amount": -80.9,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.394.460/0058-87 - ITAÚ UNIBANCO S.A. (0341) Agência: 332 Conta: 81010-0",
+    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.000.000/0001-00 - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "RECEITA FEDERAL",
-    "document": "00.394.460/0058-87"
+    "document": "***.000.000-**"
   },
   {
     "guid": "688efece-8c9a-4bd0-8150-5724fbd820ee",
     "transaction_date": "2025-08-03T00:00:00Z",
     "amount": 15.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "688eff93-559c-49bb-9a49-82ff6ccb6d96",
     "transaction_date": "2025-08-03T00:00:00Z",
     "amount": -15.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 13.347.016/0001-17 - EBANX IP LTDA. (0383) Agência: 1 Conta: 1002101155-6",
+    "description": "Transferência enviada pelo Pix - FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. - 00.000.000/0001-00 - EBANX IP LTDA. (0383) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
-    "document": "13.347.016/0001-17"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6891de3b-0b85-484e-82b2-e3cc5b19d628",
     "transaction_date": "2025-08-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1834,9 +1834,9 @@
     "transaction_date": "2025-08-07T00:00:00Z",
     "amount": -50.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix via Open Banking - Iniciada por: Banco BTG Pactual S.A. - Henri Felipe Marques Mafra - •••.357.571-•• - BANCO BTG PACTUAL S.A. Agência: 20 Conta: 917605-3",
+    "description": "Transferência enviada pelo Pix via Open Banking - Iniciada por: Banco BTG Pactual S.A. - Titular da Conta (Demo) - •••.357.571-•• - BANCO BTG PACTUAL S.A. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -1844,20 +1844,20 @@
     "transaction_date": "2025-08-16T00:00:00Z",
     "amount": -585.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a2dedc-3cd1-4a3a-b50e-fb821b2ca30f",
     "transaction_date": "2025-08-18T00:00:00Z",
     "amount": 230.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a2deea-dc44-47bc-b6a5-c5867de83fbc",
@@ -1874,79 +1874,79 @@
     "transaction_date": "2025-08-18T00:00:00Z",
     "amount": 3.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a2e044-8ebf-48e5-858f-58c300c71f81",
     "transaction_date": "2025-08-18T00:00:00Z",
     "amount": -4.08,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA - 33.967.103/0001-84 - DLOCAL BRASIL IP S.A. Agência: 1 Conta: 2-0",
+    "description": "Transferência enviada pelo Pix - DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA - 00.000.000/0001-00 - DLOCAL BRASIL IP S.A. Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA",
-    "document": "33.967.103/0001-84"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a54b4a-cad3-45a6-9ef5-ea23c1a294ca",
     "transaction_date": "2025-08-20T00:00:00Z",
     "amount": 81.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a54b61-606c-41e8-808d-8ba098f5d457",
     "transaction_date": "2025-08-20T00:00:00Z",
     "amount": -80.9,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.394.460/0058-87 - BCO DO BRASIL S.A. (0001) Agência: 1607 Conta: 333666-2",
+    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.000.000/0001-00 - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "RECEITA FEDERAL",
-    "document": "00.394.460/0058-87"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a579d0-e274-4bef-8ffe-9e4db555e4ca",
     "transaction_date": "2025-08-20T00:00:00Z",
     "amount": 4.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68a57afc-46aa-4537-ae4e-dd0f07f41a8d",
     "transaction_date": "2025-08-20T00:00:00Z",
     "amount": -3.06,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - GGMAX - 46.018.667/0001-12 - EFÍ S.A. - IP (0364) Agência: 1 Conta: 429756-3",
+    "description": "Transferência enviada pelo Pix - GGMAX - 00.000.000/0001-00 - EFÍ S.A. - IP (0364) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "GGMAX",
-    "document": "46.018.667/0001-12"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68b0509c-3b3f-41e4-a25e-7f7c200fe4f2",
     "transaction_date": "2025-08-28T00:00:00Z",
     "amount": 51.1,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - KIRVANO - 48.582.146/0001-19 - BANCO GENIAL (0125) Agência: 1 Conta: 4541884-5",
+    "description": "Transferência recebida pelo Pix - KIRVANO - 00.000.000/0001-00 - BANCO GENIAL (0125) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "KIRVANO",
-    "document": "48.582.146/0001-19"
+    "document": "***.000.000-**"
   },
   {
     "guid": "68babccd-97ff-42f6-bccb-051186104c27",
     "transaction_date": "2025-09-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -1954,10 +1954,10 @@
     "transaction_date": "2025-09-06T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68c05ec4-95ec-40b8-a117-bbab95ad7fa3",
@@ -1984,10 +1984,10 @@
     "transaction_date": "2025-09-18T00:00:00Z",
     "amount": 11323.38,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68cb82d4-dc5b-470f-8fcd-d1b722cbf8bc",
@@ -2044,39 +2044,39 @@
     "transaction_date": "2025-09-22T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68d1c611-6cf0-4c64-b6de-7ca845a35deb",
     "transaction_date": "2025-09-22T00:00:00Z",
     "amount": -5000.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68d1c65e-f61c-4c3f-856c-0458809ced09",
     "transaction_date": "2025-09-22T00:00:00Z",
     "amount": -6080.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 11.351.086/0001-13 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 71205-1",
+    "description": "Transferência enviada pelo Pix - Mercado Bitcoin Instituicao de Pagamento Ltda - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "11.351.086/0001-13"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68e24d46-a88b-4ec6-9a14-3febe5b9639b",
     "transaction_date": "2025-10-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2084,20 +2084,20 @@
     "transaction_date": "2025-10-06T00:00:00Z",
     "amount": 1.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68e43c3f-faa8-48b0-ba52-1b398d4b9643",
     "transaction_date": "2025-10-06T00:00:00Z",
     "amount": 13068.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68e43c5c-e774-4be5-9e5f-216d382621eb",
@@ -2154,50 +2154,50 @@
     "transaction_date": "2025-10-08T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68e5f373-637c-431e-93ca-95c0d53e4c07",
     "transaction_date": "2025-10-08T00:00:00Z",
     "amount": -20.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68e5f3fa-ad9f-4ed2-9804-78df1ea18680",
     "transaction_date": "2025-10-08T00:00:00Z",
     "amount": -13699.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68f6f446-0e1b-48fd-a0aa-f2cfd60f3bb6",
     "transaction_date": "2025-10-20T00:00:00Z",
     "amount": 81.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68f6f4cc-e11d-4bf1-8789-5d2050f2b8a1",
     "transaction_date": "2025-10-20T00:00:00Z",
     "amount": 575.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "68f6f4d7-e49c-4d0b-9289-7544d286888d",
@@ -2214,19 +2214,19 @@
     "transaction_date": "2025-10-20T00:00:00Z",
     "amount": -80.9,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.394.460/0058-87 - ITAÚ UNIBANCO S.A. (0341) Agência: 332 Conta: 81010-0",
+    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.000.000/0001-00 - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "RECEITA FEDERAL",
-    "document": "00.394.460/0058-87"
+    "document": "***.000.000-**"
   },
   {
     "guid": "690b2909-de11-44dd-8df8-a19fd0758298",
     "transaction_date": "2025-11-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2234,20 +2234,20 @@
     "transaction_date": "2025-11-07T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6913fe97-9d0f-4554-aff5-b7db84de2a37",
     "transaction_date": "2025-11-12T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6913fea2-0162-4832-9e78-95669fc6066b",
@@ -2264,7 +2264,7 @@
     "transaction_date": "2025-11-14T00:00:00Z",
     "amount": 500.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Leonardo De Sousa Barros - •••.338.251-•• - BANCO PAN (0623) Agência: 1 Conta: 21069340-3",
+    "description": "Transferência recebida pelo Pix - Leonardo De Sousa Barros - •••.338.251-•• - BANCO PAN (0623) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "Leonardo De Sousa Barros",
     "document": "N/A"
@@ -2284,27 +2284,27 @@
     "transaction_date": "2025-11-21T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "691ff9a9-9206-4723-905d-a4865e705870",
     "transaction_date": "2025-11-21T00:00:00Z",
     "amount": -421.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6920e7e4-adec-47b2-abed-3993c4d14e83",
     "transaction_date": "2025-11-21T00:00:00Z",
     "amount": 30.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "MONICA APARECIDA LEITE MAFRA",
     "document": "N/A"
@@ -2314,7 +2314,7 @@
     "transaction_date": "2025-11-21T00:00:00Z",
     "amount": -30.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Monica Aparecida Leite Mafra - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência enviada pelo Pix - Monica Aparecida Leite Mafra - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "Monica Aparecida Leite Mafra",
     "document": "N/A"
@@ -2324,7 +2324,7 @@
     "transaction_date": "2025-11-21T00:00:00Z",
     "amount": 50.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "ELIAS DE JESUS RODRIGUES",
     "document": "N/A"
@@ -2334,67 +2334,67 @@
     "transaction_date": "2025-11-27T00:00:00Z",
     "amount": 55.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "69285905-7d28-4206-9508-87b973597c7e",
     "transaction_date": "2025-11-27T00:00:00Z",
     "amount": -81.97,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.394.460/0058-87 - ITAÚ UNIBANCO S.A. (0341) Agência: 332 Conta: 81010-0",
+    "description": "Transferência enviada pelo Pix - RECEITA FEDERAL - 00.000.000/0001-00 - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "RECEITA FEDERAL",
-    "document": "00.394.460/0058-87"
+    "document": "***.000.000-**"
   },
   {
     "guid": "692f306a-5b34-42b0-8e8c-b82de4809ed3",
     "transaction_date": "2025-12-02T00:00:00Z",
     "amount": -9.9,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - BIOSWIN - 00.318.069/0001-68 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 3409 Conta: 13001393-6",
+    "description": "Transferência enviada pelo Pix - BIOSWIN - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "BIOSWIN",
-    "document": "00.318.069/0001-68"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6931e75e-d250-4079-9929-b5773d727710",
     "transaction_date": "2025-12-04T00:00:00Z",
     "amount": 34.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6931e8f6-f77c-4594-8487-820af6eb783b",
     "transaction_date": "2025-12-04T00:00:00Z",
     "amount": 3.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6931eaa5-18c3-4747-a99c-0ba067d10b72",
     "transaction_date": "2025-12-04T00:00:00Z",
     "amount": -49.99,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - AMAZON.COM.BR - 15.436.940/0001-03 - EBANX IP LTDA. (0383) Agência: 1 Conta: 1000826894-8",
+    "description": "Transferência enviada pelo Pix - AMAZON.COM.BR - 00.000.000/0001-00 - EBANX IP LTDA. (0383) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "AMAZON.COM.BR",
-    "document": "15.436.940/0001-03"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6931ee9b-8524-42a6-a378-3914e8e813c2",
     "transaction_date": "2025-12-04T00:00:00Z",
     "amount": 83.78,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 25 Conta: 25035369-5",
+    "description": "Transferência recebida pelo Pix - MONICA APARECIDA LEITE MAFRA - •••.134.396-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "MONICA APARECIDA LEITE MAFRA",
     "document": "N/A"
@@ -2404,9 +2404,9 @@
     "transaction_date": "2025-12-05T00:00:00Z",
     "amount": 1267.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2414,10 +2414,10 @@
     "transaction_date": "2025-12-06T00:00:00Z",
     "amount": -631.82,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6936ea49-c27f-42ec-bd54-fc697757f3b3",
@@ -2434,20 +2434,20 @@
     "transaction_date": "2025-12-09T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "693876ae-59b1-40fb-be00-1f4f03b1a422",
     "transaction_date": "2025-12-09T00:00:00Z",
     "amount": 7557.88,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "693876d1-4e80-43bf-ade9-1de2b1657cd1",
@@ -2524,40 +2524,40 @@
     "transaction_date": "2025-12-15T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6940873a-4884-4b20-b4f8-52324e2bf119",
     "transaction_date": "2025-12-15T00:00:00Z",
     "amount": -8280.47,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6944bd83-32e4-46ec-802f-915321e1faaf",
     "transaction_date": "2025-12-18T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6944bda3-c1aa-43e7-ad39-b1c48dfe1fdb",
     "transaction_date": "2025-12-18T00:00:00Z",
     "amount": 1217.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6944bdad-33c5-4b2e-ba67-b2521449a036",
@@ -2574,29 +2574,29 @@
     "transaction_date": "2025-12-19T00:00:00Z",
     "amount": 4.8,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "694575dc-1d5b-4352-8e0b-8182fa597463",
     "transaction_date": "2025-12-19T00:00:00Z",
     "amount": -4.99,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - GGMAX - 46.018.667/0001-12 - EFÍ S.A. - IP (0364) Agência: 1 Conta: 429756-3",
+    "description": "Transferência enviada pelo Pix - GGMAX - 00.000.000/0001-00 - EFÍ S.A. - IP (0364) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "GGMAX",
-    "document": "46.018.667/0001-12"
+    "document": "***.000.000-**"
   },
   {
     "guid": "695008c0-7e38-4097-ad80-e5850c1ea42b",
     "transaction_date": "2025-12-27T00:00:00Z",
     "amount": 700.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - GABRIEL AIAS MARQUES MAFRA - •••.357.961-•• - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 40 Conta: 2013570-4",
+    "description": "Transferência recebida pelo Pix - Contato Frequente B - •••.357.961-•• - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -2604,19 +2604,19 @@
     "transaction_date": "2025-12-30T00:00:00Z",
     "amount": -257.25,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - POLICIA FEDERAL/MJSP - COORDENACAO DE ORCAMENTO FINANCAS CONTABILIDA - 00.394.494/0003-06 - STN Agência: 1 Conta: 62870515-8",
+    "description": "Transferência enviada pelo Pix - POLICIA FEDERAL/MJSP - COORDENACAO DE ORCAMENTO FINANCAS CONTABILIDA - 00.000.000/0001-00 - STN Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "POLICIA FEDERAL/MJSP",
-    "document": "00.394.494/0003-06"
+    "document": "***.000.000-**"
   },
   {
     "guid": "695d20db-c424-4f22-95b4-24ac4fbb8738",
     "transaction_date": "2026-01-06T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2644,10 +2644,10 @@
     "transaction_date": "2026-01-07T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "695e8040-648b-40be-a34c-c3d0fe708246",
@@ -2664,20 +2664,20 @@
     "transaction_date": "2026-01-07T00:00:00Z",
     "amount": 10.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "695e8095-de3e-4f07-8405-6bc2a10907a6",
     "transaction_date": "2026-01-07T00:00:00Z",
     "amount": 7680.04,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Mercado Bitcoin IP LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência recebida pelo Pix - Exchange de Criptoativos - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "695e80b6-ace9-4641-9de1-1a4d8fe14275",
@@ -2744,29 +2744,29 @@
     "transaction_date": "2026-01-18T00:00:00Z",
     "amount": -10.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "696d78e0-3d83-4e98-8fe7-cc2adcc4fa31",
     "transaction_date": "2026-01-18T00:00:00Z",
     "amount": -8734.8,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 18.213.434/0001-35 - MERCADO BITCOIN IP LTDA (0576) Agência: 1 Conta: 70775-9",
+    "description": "Transferência enviada pelo Pix - MERCADO BITCOIN SERVICOS DIGITAIS LTDA - 00.000.000/0001-00 - MERCADO BITCOIN IP LTDA (0576) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Mercado Bitcoin IP LTDA",
-    "document": "18.213.434/0001-35"
+    "counterparty": "Exchange de Criptoativos",
+    "document": "***.000.000-**"
   },
   {
     "guid": "696dac14-a480-4c03-8581-371f171dcb3f",
     "transaction_date": "2026-01-19T00:00:00Z",
     "amount": 0.01,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Gabriel Aias Marques Mafra - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 1 Conta: 1910018261-7",
+    "description": "Transferência recebida pelo Pix - Contato Frequente B - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -2774,9 +2774,9 @@
     "transaction_date": "2026-01-19T00:00:00Z",
     "amount": 227.5,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2794,9 +2794,9 @@
     "transaction_date": "2026-01-21T00:00:00Z",
     "amount": -25.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Gabriel Aias Marques Mafra - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 1 Conta: 1910018261-7",
+    "description": "Transferência enviada pelo Pix - Contato Frequente B - •••.357.961-•• - MERCADO PAGO IP LTDA. (0323) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -2804,19 +2804,19 @@
     "transaction_date": "2026-01-23T00:00:00Z",
     "amount": -15.51,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - AIBR INSTITUICAO DE PAGAMENTO LTDA. - 32.246.162/0001-09 - BANCO BTG PACTUAL S.A. (0208) Agência: 8 Conta: 80-2",
+    "description": "Transferência enviada pelo Pix - AIBR INSTITUICAO DE PAGAMENTO LTDA. - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "AIBR INSTITUICAO DE PAGAMENTO LTDA.",
-    "document": "32.246.162/0001-09"
+    "document": "***.000.000-**"
   },
   {
     "guid": "69847513-0f33-48f5-b6ed-5eaad4f1d461",
     "transaction_date": "2026-02-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2824,10 +2824,10 @@
     "transaction_date": "2026-02-06T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6985933a-41c7-4693-9dc7-c56e28500964",
@@ -2854,17 +2854,17 @@
     "transaction_date": "2026-02-06T00:00:00Z",
     "amount": -9.76,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - AIBR INSTITUICAO DE PAGAMENTO LTDA. - 32.246.162/0001-09 - BANCO BTG PACTUAL S.A. (0208) Agência: 8 Conta: 80-2",
+    "description": "Transferência enviada pelo Pix - AIBR INSTITUICAO DE PAGAMENTO LTDA. - 00.000.000/0001-00 - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "AIBR INSTITUICAO DE PAGAMENTO LTDA.",
-    "document": "32.246.162/0001-09"
+    "document": "***.000.000-**"
   },
   {
     "guid": "69889722-7862-4585-b40c-07c6f2382b1e",
     "transaction_date": "2026-02-08T00:00:00Z",
     "amount": 70.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "ELIAS DE JESUS RODRIGUES",
     "document": "N/A"
@@ -2874,10 +2874,10 @@
     "transaction_date": "2026-02-12T00:00:00Z",
     "amount": -1.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - PRIMUS - 23.224.978/0001-32 - NU PAGAMENTOS - IP (0260) Agência: 1 Conta: 343908570-0",
+    "description": "Transferência enviada pelo Pix - PRIMUS - 00.000.000/0001-00 - NU PAGAMENTOS - IP (0260) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "PRIMUS",
-    "document": "23.224.978/0001-32"
+    "document": "***.000.000-**"
   },
   {
     "guid": "699722ce-23c0-49eb-b28f-7adcf476b7bd",
@@ -2904,7 +2904,7 @@
     "transaction_date": "2026-02-26T00:00:00Z",
     "amount": 32.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - PAULO FERNANDO E AFONSO - •••.223.948-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3740 Conta: 23859-1",
+    "description": "Transferência recebida pelo Pix - PAULO FERNANDO E AFONSO - •••.223.948-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "PAULO FERNANDO E AFONSO",
     "document": "N/A"
@@ -2914,9 +2914,9 @@
     "transaction_date": "2026-03-02T00:00:00Z",
     "amount": 77.5,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Gabriel Aias Marques Mafra - •••.357.961-•• - CELCOIN IP S.A. (0509) Agência: 1 Conta: 41657758-3",
+    "description": "Transferência recebida pelo Pix - Contato Frequente B - •••.357.961-•• - CELCOIN IP S.A. (0509) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -2924,9 +2924,9 @@
     "transaction_date": "2026-03-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -2954,17 +2954,17 @@
     "transaction_date": "2026-03-08T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "69af31b5-0a1d-4811-9e79-994d872a33dc",
     "transaction_date": "2026-03-09T00:00:00Z",
     "amount": 70.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 209 Conta: 209027187-0",
+    "description": "Transferência recebida pelo Pix - ELIAS DE JESUS RODRIGUES - •••.454.581-•• - BRB - BCO DE BRASILIA S.A. (0070) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
     "counterparty": "ELIAS DE JESUS RODRIGUES",
     "document": "N/A"
@@ -3014,9 +3014,9 @@
     "transaction_date": "2026-03-22T00:00:00Z",
     "amount": 130.9,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Henri Felipe Marques Mafra - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 20 Conta: 917605-3",
+    "description": "Transferência recebida pelo Pix - Titular da Conta (Demo) - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3044,7 +3044,7 @@
     "transaction_date": "2026-03-28T00:00:00Z",
     "amount": -18.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - MARCIO GEBRIM OLIVEIRA - •••.445.761-•• - BCO DO BRASIL S.A. (0001) Agência: 4598 Conta: 61558-7",
+    "description": "Transferência enviada pelo Pix - MARCIO GEBRIM OLIVEIRA - •••.445.761-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "MARCIO GEBRIM OLIVEIRA",
     "document": "N/A"
@@ -3064,9 +3064,9 @@
     "transaction_date": "2026-04-02T00:00:00Z",
     "amount": -15.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Henri Felipe Marques Mafra (Transferência enviada)",
+    "description": "Transferência enviada pelo Pix - Titular da Conta (Demo) (Transferência enviada)",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3074,9 +3074,9 @@
     "transaction_date": "2026-04-02T00:00:00Z",
     "amount": 15.0,
     "type": "INFLOW",
-    "description": "Transferência Recebida - Henri Felipe Marques Mafra - •••.357.571-•• - NU PAGAMENTOS - IP (0260) Agência: 1 Conta: 623852036-1",
+    "description": "Transferência Recebida - Titular da Conta (Demo) - •••.357.571-•• - NU PAGAMENTOS - IP (0260) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3086,7 +3086,7 @@
     "type": "OUTFLOW",
     "description": "Transferência enviada pelo Pix - HENRI FELIPE MARQUES MAFRA (Transferência enviada)",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3094,9 +3094,9 @@
     "transaction_date": "2026-04-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -3124,19 +3124,19 @@
     "transaction_date": "2026-04-06T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "69d3be04-564e-46de-b360-9d65e08199e1",
     "transaction_date": "2026-04-06T00:00:00Z",
     "amount": 929.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3164,9 +3164,9 @@
     "transaction_date": "2026-04-09T00:00:00Z",
     "amount": -7.1,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Henri Felipe Marques Mafra - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 20 Conta: 917605-3",
+    "description": "Transferência enviada pelo Pix - Titular da Conta (Demo) - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3174,9 +3174,9 @@
     "transaction_date": "2026-04-12T00:00:00Z",
     "amount": 199.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - Gabriel Aias Marques Mafra - •••.357.961-•• - CELCOIN IP S.A. (0509) Agência: 1 Conta: 41657758-3",
+    "description": "Transferência recebida pelo Pix - Contato Frequente B - •••.357.961-•• - CELCOIN IP S.A. (0509) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Gabriel Aias Marques Mafra",
+    "counterparty": "Contato Frequente B",
     "document": "N/A"
   },
   {
@@ -3214,9 +3214,9 @@
     "transaction_date": "2026-05-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -3224,9 +3224,9 @@
     "transaction_date": "2026-05-05T00:00:00Z",
     "amount": 1220.7,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3254,10 +3254,10 @@
     "transaction_date": "2026-05-06T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6a0b84ef-a523-4388-ae23-7569b47e42f3",
@@ -3284,9 +3284,9 @@
     "transaction_date": "2026-06-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -3304,9 +3304,9 @@
     "transaction_date": "2026-06-06T00:00:00Z",
     "amount": 929.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3324,9 +3324,9 @@
     "transaction_date": "2026-06-06T00:00:00Z",
     "amount": 302.01,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3374,10 +3374,10 @@
     "transaction_date": "2026-06-07T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6a25f1a8-03b7-43c5-b411-e5047369e2db",
@@ -3434,9 +3434,9 @@
     "transaction_date": "2026-06-19T00:00:00Z",
     "amount": -25.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Henri Felipe Marques Mafra - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 20 Conta: 917605-3",
+    "description": "Transferência enviada pelo Pix - Titular da Conta (Demo) - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3454,9 +3454,9 @@
     "transaction_date": "2026-06-21T00:00:00Z",
     "amount": -20.0,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - Henri Felipe Marques Mafra - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 20 Conta: 917605-3",
+    "description": "Transferência enviada pelo Pix - Titular da Conta (Demo) - •••.357.571-•• - BANCO BTG PACTUAL S.A. (0208) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3474,9 +3474,9 @@
     "transaction_date": "2026-07-05T00:00:00Z",
     "amount": 1300.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - LEANDRO MARQUES DOS SANTOS - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 3748 Conta: 14936-0",
+    "description": "Transferência recebida pelo Pix - Cliente / Parceiro A - •••.324.471-•• - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Leandro Marques dos Santos",
+    "counterparty": "Cliente / Parceiro A",
     "document": "N/A"
   },
   {
@@ -3494,9 +3494,9 @@
     "transaction_date": "2026-07-06T00:00:00Z",
     "amount": 929.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3504,10 +3504,10 @@
     "transaction_date": "2026-07-07T00:00:00Z",
     "amount": -689.07,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.059.857/0001-87 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 2269 Conta: 13000265-6",
+    "description": "Transferência enviada pelo Pix - CENTRO E U B CEUB - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
-    "counterparty": "CEUB - Centro Universitário de Brasília",
-    "document": "00.059.857/0001-87"
+    "counterparty": "Instituição de Ensino Superior",
+    "document": "***.000.000-**"
   },
   {
     "guid": "6a4d82b0-b666-4d91-8b09-74fe9c102268",
@@ -3524,9 +3524,9 @@
     "transaction_date": "2026-07-07T00:00:00Z",
     "amount": 203.0,
     "type": "INFLOW",
-    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 3413 Conta: 58976-4",
+    "description": "Transferência recebida pelo Pix - HENRI F MARQUES MAFRA - •••.357.571-•• - BCO DO BRASIL S.A. (0001) Agência: 0001 Conta: 00000-0",
     "category": "Pix Recebido",
-    "counterparty": "Henri Felipe Marques Mafra (Titular)",
+    "counterparty": "Titular da Conta (Demo)",
     "document": "N/A"
   },
   {
@@ -3594,10 +3594,10 @@
     "transaction_date": "2026-07-27T00:00:00Z",
     "amount": -16.92,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - SHPP BRASIL INSTITUICAO DE PAG - 38.372.267/0001-82 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 3689 Conta: 13023089-6",
+    "description": "Transferência enviada pelo Pix - SHPP BRASIL INSTITUICAO DE PAG - 00.000.000/0001-00 - BCO SANTANDER (BRASIL) S.A. (0033) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "SHPP BRASIL INSTITUICAO DE PAG",
-    "document": "38.372.267/0001-82"
+    "document": "***.000.000-**"
   },
   {
     "guid": "6a6a848e-3fb7-443e-8fd7-65ba884bc0ec",
@@ -3624,9 +3624,9 @@
     "transaction_date": "2026-07-29T00:00:00Z",
     "amount": -25.54,
     "type": "OUTFLOW",
-    "description": "Transferência enviada pelo Pix - AMAZON COM BR - 15.436.940/0001-03 - ITAÚ UNIBANCO S.A. (0341) Agência: 910 Conta: 17722-9",
+    "description": "Transferência enviada pelo Pix - AMAZON COM BR - 00.000.000/0001-00 - ITAÚ UNIBANCO S.A. (0341) Agência: 0001 Conta: 00000-0",
     "category": "Pix Enviado",
     "counterparty": "AMAZON COM BR",
-    "document": "15.436.940/0001-03"
+    "document": "***.000.000-**"
   }
 ]

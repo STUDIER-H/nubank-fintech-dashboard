@@ -1,15 +1,20 @@
-# 🚀 Nubank Fintech SaaS Dashboard (25 Meses)
+# 🚀 Nubank Fintech SaaS Dashboard (Showcase & Portfolio)
 
-Dashboard Financeiro SaaS completo no estilo Apple Fintech + Power BI Pro.
+Um aplicativo web SaaS de inteligência financeira de alta performance, projetado no estilo **Apple Fintech + Power BI Pro**, construído para demonstração de arquitetura de dados e frontend moderno.
 
-- **URL Pública:** https://github.com/STUDIER-H/nubank-fintech-dashboard
-- **Período Auditado:** 29/06/2024 a 29/07/2026 (25 Meses)
-- **Total Transações:** 363 movimentações
-- **Entradas (+):** R$ 220.090,21
-- **Saídas (-):** R$ 220.052,36
-- **Resultado Líquido:** R$ 37,85
+- **URL do Projeto Demonstrativo:** https://studier-h.github.io/nubank-fintech-dashboard/
+- **Tecnologias:** Next.js / HTML5, Tailwind CSS, Chart.js, Supabase (PostgreSQL Schema), GitHub Actions.
 
-## 🗄️ Estrutura do Repositório
-- index.html: Dashboard Web SaaS com Tailwind CSS, Chart.js e filtros em tempo real.
-- schema.sql: DDL completo para Supabase PostgreSQL (com Triggers DRE).
-- seed_data.json: 363 transações auditadas para carga no banco.
+---
+
+## ⚡ Funcionalidades Demonstradas
+
+- **Executive KPI Cards:** Saldo Líquido, Renda Média Mensal, Comprometimento de Caixa e Volume Total.
+- **DRE Mensal Histórico:** Demonstração financeira consolidada mês a mês.
+- **Analytics por Categoria & Contrapartes:** Gráficos interativos de rosca e barras comparativas.
+- **Datagrid com Pesquisa Instantânea:** Filtros dinâmicos em tempo real e pesquisa por palavra-chave.
+- **Estrutura de Banco SQL Supabase (`schema.sql`):** Tabelas DDL com Row Level Security (RLS) e Triggers para agregação automática de saldos.
+
+---
+
+*Nota: Este repositório de demonstração pública utiliza dados sintéticos e anonimizados para fins de portfólio e exibição de engenharia de software.*
