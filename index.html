@@ -555,7 +555,11 @@
     </script>
 
     
-    <!-- 2FA TOTP AUTHENTICATION MODAL (GOOGLE AUTHENTICATOR COMPLIANT BASE32) -->
+    
+    <!-- qrcode.js CDN for 100% reliable local client-side QR Code rendering -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
+    <!-- 2FA TOTP AUTHENTICATION MODAL (RFC 4226/6238 COMPLIANT 16-CHAR BASE32) -->
     <div id="modal-2fa" class="fixed inset-0 z-[100] bg-slate-950/95 backdrop-blur-xl flex items-center justify-center p-4 transition-all duration-300">
         <div class="glass-card max-w-md w-full p-6 sm:p-8 rounded-3xl shadow-2xl border border-slate-700/60 text-center space-y-6 animate-fade-in">
             
@@ -570,13 +574,12 @@
                     <p class="text-xs text-slate-400 mt-1">Escaneie o QR Code abaixo no Google Authenticator / Authy ou digite a chave manual</p>
                 </div>
 
-                <div class="bg-white p-4 rounded-2xl w-52 h-52 mx-auto shadow-inner flex items-center justify-center border border-slate-200">
-                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=otpauth%3A%2F%2Ftotp%2FMyMoneySaaS%3Ahenri.mafra%3Fsecret%3DMYMONEYNUBANKTWOFA%26issuer%3DMyMoneySaaS" alt="QR Code 2FA" class="w-full h-full object-contain">
-                </div>
+                <!-- Native Canvas QR Code Div -->
+                <div class="bg-white p-3 rounded-2xl w-52 h-52 mx-auto shadow-inner flex items-center justify-center border border-slate-200" id="qrcode-container"></div>
 
                 <div class="bg-slate-900/90 p-3 rounded-xl border border-slate-800 text-xs text-slate-300 space-y-1">
                     <div class="text-slate-400 text-[11px]">Chave de Configuração Manual:</div>
-                    <div class="text-sky-400 font-mono font-bold tracking-widest text-sm select-all">MYMONEYNUBANKTWOFA</div>
+                    <div class="text-sky-400 font-mono font-bold tracking-widest text-base select-all">KVKFKRCPJJMTOWSZ</div>
                 </div>
             </div>
 
@@ -612,7 +615,31 @@
     </div>
 
     <script>
-        const TOTP_SECRET = 'MYMONEYNUBANKTWOFA';
+        const TOTP_SECRET = 'KVKFKRCPJJMTOWSZ';
+        let qrCodeInstance = null;
+
+        function renderQRCode() {
+            const container = document.getElementById('qrcode-container');
+            if (!container) return;
+            container.innerHTML = '';
+            const otpauthUrl = `otpauth://totp/MyMoneySaaS:henri.mafra?secret=${TOTP_SECRET}&issuer=MyMoneySaaS`;
+            try {
+                if (typeof QRCode !== 'undefined') {
+                    qrCodeInstance = new QRCode(container, {
+                        text: otpauthUrl,
+                        width: 180,
+                        height: 180,
+                        colorDark : "#000000",
+                        colorLight : "#ffffff",
+                        correctLevel : QRCode.CorrectLevel.M
+                    });
+                } else {
+                    container.innerHTML = `<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(otpauthUrl)}" class="w-full h-full object-contain">`;
+                }
+            } catch (e) {
+                container.innerHTML = `<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(otpauthUrl)}" class="w-full h-full object-contain">`;
+            }
+        }
 
         function base32ToBuf(base32) {
             const base32chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
@@ -683,6 +710,7 @@
                 setupBox.classList.remove('hidden');
                 loginBox.classList.add('hidden');
                 reconfigLink.classList.add('hidden');
+                renderQRCode();
             }
         }
 
