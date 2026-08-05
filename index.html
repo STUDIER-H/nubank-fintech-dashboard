@@ -557,9 +557,9 @@
     
     
     <!-- qrcode.js CDN for 100% reliable local client-side QR Code rendering -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
-
-    <!-- 2FA TOTP AUTHENTICATION MODAL (RFC 4226/6238 COMPLIANT 16-CHAR BASE32) -->
+    
+    
+    <!-- 2FA TOTP AUTHENTICATION MODAL (CLEAN SINGLE OWNER PIN PROMPT ONLY) -->
     <div id="modal-2fa" class="fixed inset-0 z-[100] bg-slate-950/95 backdrop-blur-xl flex items-center justify-center p-4 transition-all duration-300">
         <div class="glass-card max-w-md w-full p-6 sm:p-8 rounded-3xl shadow-2xl border border-slate-700/60 text-center space-y-6 animate-fade-in">
             
@@ -567,26 +567,9 @@
                 <i class="fa-solid fa-shield-halved text-2xl text-white"></i>
             </div>
 
-            <!-- STATE 1: SETUP MODE (QR CODE - FIRST TIME ONLY) -->
-            <div id="setup-container" class="space-y-4">
-                <div>
-                    <h2 class="text-xl font-bold text-white tracking-tight">Configuração 2FA Google Authenticator</h2>
-                    <p class="text-xs text-slate-400 mt-1">Escaneie o QR Code abaixo no Google Authenticator / Authy ou digite a chave manual</p>
-                </div>
-
-                <!-- Native Canvas QR Code Div -->
-                <div class="bg-white p-3 rounded-2xl w-52 h-52 mx-auto shadow-inner flex items-center justify-center border border-slate-200" id="qrcode-container"></div>
-
-                <div class="bg-slate-900/90 p-3 rounded-xl border border-slate-800 text-xs text-slate-300 space-y-1">
-                    <div class="text-slate-400 text-[11px]">Chave de Configuração Manual:</div>
-                    <div class="text-sky-400 font-mono font-bold tracking-widest text-base select-all">KVKFKRCPJJMTOWSZ</div>
-                </div>
-            </div>
-
-            <!-- STATE 2: LOGIN MODE (COMPLETELY HIDDEN QR CODE - SUBSEQUENT LOGINS) -->
-            <div id="login-container" class="hidden">
+            <div>
                 <h2 class="text-xl font-bold text-white tracking-tight">Autenticação 2FA Exclusiva</h2>
-                <p class="text-xs text-slate-400 mt-1">Digite o código de 6 dígitos gerado no aplicativo Google Authenticator</p>
+                <p class="text-xs text-slate-400 mt-1">Digite o código de 6 dígitos gerado no aplicativo do seu celular (Google Authenticator)</p>
             </div>
 
             <!-- 6-DIGIT PIN INPUT -->
@@ -605,41 +588,11 @@
             <button onclick="verify2FA()" class="w-full py-3 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 text-white font-bold text-xs shadow-lg shadow-sky-500/25 hover:opacity-90 transition-all">
                 <i class="fa-solid fa-lock-open"></i> DESBLOQUEAR PAINEL
             </button>
-
-            <div id="reconfig-link" class="hidden text-center pt-2">
-                <button onclick="showQRCodeAgain()" class="text-[11px] text-slate-500 hover:text-sky-400 underline transition-colors">
-                    Reexibir QR Code para novo celular
-                </button>
-            </div>
         </div>
     </div>
 
     <script>
         const TOTP_SECRET = 'KVKFKRCPJJMTOWSZ';
-        let qrCodeInstance = null;
-
-        function renderQRCode() {
-            const container = document.getElementById('qrcode-container');
-            if (!container) return;
-            container.innerHTML = '';
-            const otpauthUrl = `otpauth://totp/MyMoneySaaS:henri.mafra?secret=${TOTP_SECRET}&issuer=MyMoneySaaS`;
-            try {
-                if (typeof QRCode !== 'undefined') {
-                    qrCodeInstance = new QRCode(container, {
-                        text: otpauthUrl,
-                        width: 180,
-                        height: 180,
-                        colorDark : "#000000",
-                        colorLight : "#ffffff",
-                        correctLevel : QRCode.CorrectLevel.M
-                    });
-                } else {
-                    container.innerHTML = `<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(otpauthUrl)}" class="w-full h-full object-contain">`;
-                }
-            } catch (e) {
-                container.innerHTML = `<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(otpauthUrl)}" class="w-full h-full object-contain">`;
-            }
-        }
 
         function base32ToBuf(base32) {
             const base32chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
@@ -689,28 +642,16 @@
 
         function check2FAAuth() {
             const isAuth = sessionStorage.getItem('2fa_authenticated');
-            const isConfigured = localStorage.getItem('2fa_configured');
             const modal = document.getElementById('modal-2fa');
-            const setupBox = document.getElementById('setup-container');
-            const loginBox = document.getElementById('login-container');
-            const reconfigLink = document.getElementById('reconfig-link');
 
             if (isAuth === 'true') {
                 modal.classList.add('hidden');
-                return;
-            }
-
-            modal.classList.remove('hidden');
-
-            if (isConfigured === 'true') {
-                setupBox.classList.add('hidden');
-                loginBox.classList.remove('hidden');
-                reconfigLink.classList.remove('hidden');
             } else {
-                setupBox.classList.remove('hidden');
-                loginBox.classList.add('hidden');
-                reconfigLink.classList.add('hidden');
-                renderQRCode();
+                modal.classList.remove('hidden');
+                setTimeout(() => {
+                    const firstInput = document.querySelector('.otp-input');
+                    if (firstInput) firstInput.focus();
+                }, 100);
             }
         }
 
@@ -752,7 +693,6 @@
 
             if (isValid) {
                 sessionStorage.setItem('2fa_authenticated', 'true');
-                localStorage.setItem('2fa_configured', 'true');
                 document.getElementById('modal-2fa').classList.add('hidden');
                 err.classList.add('hidden');
             } else {
@@ -765,11 +705,6 @@
         function lock2FA() {
             sessionStorage.removeItem('2fa_authenticated');
             document.querySelectorAll('.otp-input').forEach(i => i.value = '');
-            check2FAAuth();
-        }
-
-        function showQRCodeAgain() {
-            localStorage.removeItem('2fa_configured');
             check2FAAuth();
         }
 
