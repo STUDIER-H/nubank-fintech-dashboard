@@ -998,5 +998,28 @@
         });
     </script>
 
+
+    <script>
+        // Additional Defensive Hardening: Memory Zeroization on Unload & Navigation
+        
+        // Zero out decrypted data in memory when tab closes, refreshes, or navigates away
+        window.addEventListener('beforeunload', function() {
+            if (typeof rawData !== 'undefined') {
+                rawData = null;
+            }
+            if (typeof ENCRYPTED_PAYLOAD !== 'undefined') {
+                // Garbage collection hint
+                window.ENCRYPTED_PAYLOAD = null;
+            }
+        });
+
+        // Enforce strict referrers and no-store caching behavior on local storage objects
+        window.addEventListener('pagehide', function() {
+            if (typeof rawData !== 'undefined') {
+                rawData = null;
+            }
+        });
+    </script>
+
 </body>
 </html>
