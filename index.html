@@ -924,5 +924,43 @@
         });
     </script>
 
+
+    <script>
+        // Additional Defensive Hardening: Session TTL & Right-Click Deterrence
+        
+        // 1. Session Storage Expiration (TTL 1 Hour)
+        function setAuthSession() {
+            const now = Date.now();
+            sessionStorage.setItem('2fa_authenticated', 'true');
+            sessionStorage.setItem('2fa_auth_timestamp', now.toString());
+        }
+
+        // Override check2FAAuth to validate session timestamp
+        const prevCheck2FAAuth = window.check2FAAuth;
+        window.check2FAAuth = function() {
+            const authTime = parseInt(sessionStorage.getItem('2fa_auth_timestamp') || '0', 10);
+            const now = Date.now();
+            const maxSessionDuration = 60 * 60 * 1000; // 1 hour max session TTL
+
+            if (authTime > 0 && (now - authTime > maxSessionDuration)) {
+                console.log('Session TTL expired (1 hour). Forcing re-authentication.');
+                sessionStorage.removeItem('2fa_authenticated');
+                sessionStorage.removeItem('2fa_auth_timestamp');
+            }
+
+            if (typeof prevCheck2FAAuth === 'function') {
+                prevCheck2FAAuth();
+            }
+        };
+
+        // 2. Right-Click Context Menu Deterrence in Unauthenticated State
+        window.addEventListener('contextmenu', function(e) {
+            if (sessionStorage.getItem('2fa_authenticated') !== 'true') {
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
+
 </body>
 </html>
