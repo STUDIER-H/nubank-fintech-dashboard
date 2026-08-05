@@ -554,7 +554,8 @@
         window.onload = initApp;
     </script>
 
-    <!-- 2FA TOTP AUTHENTICATION MODAL (SINGLE OWNER 2-STATE FLOW) -->
+    
+    <!-- 2FA TOTP AUTHENTICATION MODAL (GOOGLE AUTHENTICATOR COMPLIANT BASE32) -->
     <div id="modal-2fa" class="fixed inset-0 z-[100] bg-slate-950/95 backdrop-blur-xl flex items-center justify-center p-4 transition-all duration-300">
         <div class="glass-card max-w-md w-full p-6 sm:p-8 rounded-3xl shadow-2xl border border-slate-700/60 text-center space-y-6 animate-fade-in">
             
@@ -565,26 +566,27 @@
             <!-- STATE 1: SETUP MODE (QR CODE - FIRST TIME ONLY) -->
             <div id="setup-container" class="space-y-4">
                 <div>
-                    <h2 class="text-xl font-bold text-white tracking-tight">Configuração Inicial 2FA</h2>
-                    <p class="text-xs text-slate-400 mt-1">Escaneie o QR Code no seu aplicativo (Google Authenticator / Authy). Este QR Code só aparece uma vez no primeiro acesso.</p>
+                    <h2 class="text-xl font-bold text-white tracking-tight">Configuração 2FA Google Authenticator</h2>
+                    <p class="text-xs text-slate-400 mt-1">Escaneie o QR Code abaixo no Google Authenticator / Authy ou digite a chave manual</p>
                 </div>
 
-                <div class="bg-white p-4 rounded-2xl w-48 h-48 mx-auto shadow-inner flex items-center justify-center border border-slate-200">
-                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=otpauth%3A%2F%2Ftotp%2FMyMoneySaaS%3Ahenri.mafra%3Fsecret%3DMYMONEYNUBANK2FA2026%26issuer%3DMyMoneySaaS" alt="QR Code 2FA" class="w-full h-full object-contain">
+                <div class="bg-white p-4 rounded-2xl w-52 h-52 mx-auto shadow-inner flex items-center justify-center border border-slate-200">
+                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=otpauth%3A%2F%2Ftotp%2FMyMoneySaaS%3Ahenri.mafra%3Fsecret%3DMYMONEYNUBANKTWOFA%26issuer%3DMyMoneySaaS" alt="QR Code 2FA" class="w-full h-full object-contain">
                 </div>
 
-                <div class="bg-slate-900/80 p-2.5 rounded-xl border border-slate-800 text-[11px] text-slate-400 font-mono select-all">
-                    Chave Secreta: <span class="text-sky-400 font-bold">MYMONEYNUBANK2FA2026</span>
+                <div class="bg-slate-900/90 p-3 rounded-xl border border-slate-800 text-xs text-slate-300 space-y-1">
+                    <div class="text-slate-400 text-[11px]">Chave de Configuração Manual:</div>
+                    <div class="text-sky-400 font-mono font-bold tracking-widest text-sm select-all">MYMONEYNUBANKTWOFA</div>
                 </div>
             </div>
 
             <!-- STATE 2: LOGIN MODE (COMPLETELY HIDDEN QR CODE - SUBSEQUENT LOGINS) -->
             <div id="login-container" class="hidden">
                 <h2 class="text-xl font-bold text-white tracking-tight">Autenticação 2FA Exclusiva</h2>
-                <p class="text-xs text-slate-400 mt-1">Digite o código de 6 dígitos gerado pelo seu aplicativo no celular</p>
+                <p class="text-xs text-slate-400 mt-1">Digite o código de 6 dígitos gerado no aplicativo Google Authenticator</p>
             </div>
 
-            <!-- 6-DIGIT PIN INPUT (COMMON TO BOTH) -->
+            <!-- 6-DIGIT PIN INPUT -->
             <div class="space-y-3">
                 <div class="flex justify-center gap-2" id="otp-container">
                     <input type="text" maxlength="1" class="otp-input w-11 h-13 text-center text-xl font-bold bg-slate-900 border border-slate-700 rounded-xl text-sky-400 focus:border-sky-500 focus:outline-none" oninput="moveFocus(this, 0)" onkeydown="handleBackspace(event, 0)">
@@ -610,9 +612,8 @@
     </div>
 
     <script>
-        const TOTP_SECRET = 'MYMONEYNUBANK2FA2026';
+        const TOTP_SECRET = 'MYMONEYNUBANKTWOFA';
 
-        // Convert Base32 string to Uint8Array
         function base32ToBuf(base32) {
             const base32chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
             let bits = '';
@@ -633,7 +634,6 @@
             return buf;
         }
 
-        // Calculate RFC 6238 TOTP Code
         async function getTOTPCode(secretBase32, timeOffsetSec = 0) {
             try {
                 const epoch = Math.floor((Date.now() / 1000 + timeOffsetSec) / 30);
@@ -676,12 +676,10 @@
             modal.classList.remove('hidden');
 
             if (isConfigured === 'true') {
-                // Subsequent login mode: Hide QR code completely!
                 setupBox.classList.add('hidden');
                 loginBox.classList.remove('hidden');
                 reconfigLink.classList.remove('hidden');
             } else {
-                // First time setup mode: Show QR Code
                 setupBox.classList.remove('hidden');
                 loginBox.classList.add('hidden');
                 reconfigLink.classList.add('hidden');
@@ -718,12 +716,10 @@
                 return;
             }
 
-            // Check dynamic TOTP algorithm with time-skew tolerance (-30s, 0s, +30s)
             const currentCode = await getTOTPCode(TOTP_SECRET, 0);
             const prevCode = await getTOTPCode(TOTP_SECRET, -30);
             const nextCode = await getTOTPCode(TOTP_SECRET, 30);
 
-            // Master backup pin
             const isValid = (typedCode === currentCode || typedCode === prevCode || typedCode === nextCode || typedCode === '882319');
 
             if (isValid) {
