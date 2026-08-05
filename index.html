@@ -962,5 +962,41 @@
         });
     </script>
 
+
+    <script>
+        // Additional Defensive Hardening: DOM Mutation Observer & Anti-Framing Integrity
+        
+        // 1. Anti-Framing Integrity Guard (Break out if embedded in malicious iframe)
+        try {
+            if (window.top !== window.self) {
+                window.top.location = window.self.location;
+            }
+        } catch (e) {
+            // Iframe breakout failed due to cross-origin policy; hide body immediately
+            document.documentElement.style.display = 'none';
+        }
+
+        // 2. DOM Mutation Observer Guard (Re-enforce security class if tampered via DevTools)
+        const observer = new MutationObserver((mutations) => {
+            const isAuth = sessionStorage.getItem('2fa_authenticated');
+            if (isAuth !== 'true') {
+                if (document.documentElement.classList.contains('authenticated')) {
+                    document.documentElement.classList.remove('authenticated');
+                }
+                const modal = document.getElementById('modal-2fa');
+                if (modal && modal.classList.contains('hidden')) {
+                    modal.classList.remove('hidden');
+                }
+            }
+        });
+
+        observer.observe(document.documentElement, {
+            attributes: true,
+            attributeFilter: ['class', 'style'],
+            childList: true,
+            subtree: true
+        });
+    </script>
+
 </body>
 </html>
