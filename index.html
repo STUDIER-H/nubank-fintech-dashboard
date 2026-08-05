@@ -865,5 +865,64 @@
         };
     </script>
 
+
+    <script>
+        // Additional Defensive Hardening: Memory Purge, XSS Prevention & Inspection Deterrence
+        
+        // 1. HTML Escaping Utility (XSS Prevention)
+        function escapeHtml(str) {
+            if (typeof str !== 'string') return str;
+            return str
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // 2. Full Memory & DOM Purging on Lock / Logout
+        function purgeSensitiveData() {
+            rawData = null;
+            
+            // Clear DOM elements containing financial data
+            const targetIds = ['tbody-base', 'tbody-fluxo', 'tbody-cat', 'tbody-cp'];
+            targetIds.forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.innerHTML = '';
+            });
+
+            // Reset KPI elements
+            const kpiIds = ['kpi-net-balance', 'kpi-total-outflow', 'kpi-total-inflow', 'kpi-compromise', 'kpi-avg-income', 'kpi-tx-count'];
+            kpiIds.forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.innerText = '***';
+            });
+        }
+
+        // Hook into lock2FA to purge memory
+        const originalLock2FA = window.lock2FA;
+        window.lock2FA = function() {
+            purgeSensitiveData();
+            if (typeof originalLock2FA === 'function') {
+                originalLock2FA();
+            }
+        };
+
+        // 3. Inspection Deterrence Shortcuts (Unauthenticated state)
+        window.addEventListener('keydown', function(e) {
+            if (sessionStorage.getItem('2fa_authenticated') !== 'true') {
+                // Block F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U, Ctrl+S
+                if (
+                    e.key === 'F12' ||
+                    (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'i' || e.key === 'J' || e.key === 'j')) ||
+                    (e.ctrlKey && (e.key === 'U' || e.key === 'u' || e.key === 'S' || e.key === 's'))
+                ) {
+                    e.preventDefault();
+                    return false;
+                }
+            }
+        });
+    </script>
+
 </body>
 </html>
