@@ -147,7 +147,7 @@
             <div class="flex items-center space-x-2">
                 <!-- User Email Badge -->
                 <div id="user-badge" class="hidden text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-sky-400 flex items-center space-x-2">
-                    <i class="fa-brands fa-google text-xs"></i>
+                    <i class="fa-brands fa-google text-xs text-sky-400"></i>
                     <span id="user-badge-email"></span>
                 </div>
                 <!-- WALLPAPER BACKGROUND SELECTOR BUTTON -->
@@ -453,40 +453,24 @@
                 </div>
             </div>
 
-            <!-- OFFICIAL GOOGLE SIGN-IN BUTTON & DIRECT OAUTH SIMULATOR -->
+            <!-- DIRECT GOOGLE OAUTH SELECT BUTTONS -->
             <div class="space-y-3 pt-2">
                 
-                <!-- Google One-Tap / Standard Button Container -->
-                <div id="g_id_onload"
-                     data-client_id="108293847291-demo.apps.googleusercontent.com"
-                     data-context="signin"
-                     data-ux_mode="popup"
-                     data-callback="handleCredentialResponse"
-                     data-auto_prompt="false">
-                </div>
+                <button type="button" onclick="loginWithGoogleEmail('henri.mqmf@gmail.com')" class="w-full py-3.5 px-4 rounded-xl bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs shadow-lg transition-all flex items-center justify-between border border-slate-200">
+                    <div class="flex items-center space-x-3">
+                        <i class="fa-brands fa-google text-red-500 text-base"></i>
+                        <span class="font-semibold text-slate-900">Entrar como henri.mqmf@gmail.com</span>
+                    </div>
+                    <i class="fa-solid fa-arrow-right text-slate-500 text-xs"></i>
+                </button>
 
-                <div class="flex justify-center" id="google-btn-wrapper">
-                    <!-- Dynamic Google Button -->
-                </div>
-
-                <!-- DIRECT GOOGLE OAUTH SELECT BUTTONS -->
-                <div class="space-y-2 pt-2">
-                    <button onclick="loginWithGoogleEmail('henri.mqmf@gmail.com')" class="w-full py-3 px-4 rounded-xl bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs shadow-lg transition-all flex items-center justify-between border border-slate-200">
-                        <div class="flex items-center space-x-3">
-                            <i class="fa-brands fa-google text-red-500 text-base"></i>
-                            <span class="font-semibold">Entrar como henri.mqmf@gmail.com</span>
-                        </div>
-                        <i class="fa-solid fa-chevron-right text-slate-400 text-xs"></i>
-                    </button>
-
-                    <button onclick="loginWithGoogleEmail('henri.afly@gmail.com')" class="w-full py-3 px-4 rounded-xl bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs shadow-lg transition-all flex items-center justify-between border border-slate-200">
-                        <div class="flex items-center space-x-3">
-                            <i class="fa-brands fa-google text-blue-500 text-base"></i>
-                            <span class="font-semibold">Entrar como henri.afly@gmail.com</span>
-                        </div>
-                        <i class="fa-solid fa-chevron-right text-slate-400 text-xs"></i>
-                    </button>
-                </div>
+                <button type="button" onclick="loginWithGoogleEmail('henri.afly@gmail.com')" class="w-full py-3.5 px-4 rounded-xl bg-white hover:bg-slate-100 text-slate-900 font-bold text-xs shadow-lg transition-all flex items-center justify-between border border-slate-200">
+                    <div class="flex items-center space-x-3">
+                        <i class="fa-brands fa-google text-blue-500 text-base"></i>
+                        <span class="font-semibold text-slate-900">Entrar como henri.afly@gmail.com</span>
+                    </div>
+                    <i class="fa-solid fa-arrow-right text-slate-500 text-xs"></i>
+                </button>
 
                 <p id="auth-error" class="text-xs text-rose-400 hidden mt-2"><i class="fa-solid fa-circle-xmark"></i> Acesso Negado. Este e-mail não tem permissão para acessar este painel.</p>
             </div>
@@ -502,28 +486,25 @@
         let rawData = null;
         let chartInstances = {};
 
-        function parseJwt(token) {
+        async function decryptPayload(secret) {
             try {
-                const base64Url = token.split('.')[1];
-                const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
-                const jsonPayload = decodeURIComponent(atob(base64).split('').map(function(c) {
-                    return '%%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
-                }).join(''));
-                return JSON.parse(jsonPayload);
+                const encoder = new TextEncoder();
+                const keyBuffer = await crypto.subtle.digest('SHA-256', encoder.encode(secret));
+                const keyArray = new Uint8Array(keyBuffer);
+                const binaryStr = atob(ENCRYPTED_PAYLOAD);
+                const bytes = new Uint8Array(binaryStr.length);
+                for (let i = 0; i < binaryStr.length; i++) {
+                    bytes[i] = binaryStr.charCodeAt(i) ^ keyArray[i % keyArray.length];
+                }
+                const decodedStr = new TextDecoder('utf-8').decode(bytes);
+                return JSON.parse(decodedStr);
             } catch (e) {
-                return {};
+                console.error('Decryption error:', e);
+                return null;
             }
         }
 
-        function handleCredentialResponse(response) {
-            if (response && response.credential) {
-                const payload = parseJwt(response.credential);
-                const email = payload.email ? payload.email.toLowerCase().trim() : '';
-                loginWithGoogleEmail(email);
-            }
-        }
-
-        function loginWithGoogleEmail(email) {
+        async function loginWithGoogleEmail(email) {
             const err = document.getElementById('auth-error');
             const targetEmail = (email || '').toLowerCase().trim();
 
@@ -543,12 +524,10 @@
                 if (modal) modal.classList.add('hidden');
                 if (err) err.classList.add('hidden');
 
-                decryptPayload(PAYLOAD_SECRET).then(data => {
-                    rawData = data;
-                    if (rawData && typeof initApp === 'function') {
-                        initApp();
-                    }
-                });
+                rawData = await decryptPayload(PAYLOAD_SECRET);
+                if (rawData && typeof initApp === 'function') {
+                    initApp();
+                }
             } else {
                 if (err) {
                     err.innerText = '⛔ Acesso Negado: O e-mail (' + (targetEmail || 'desconhecido') + ') não tem permissão para acessar este painel.';
@@ -616,27 +595,6 @@
         function loadSavedWallpaper() {
             const saved = localStorage.getItem('custom_wallpaper');
             if (saved) applyWallpaper(saved);
-        }
-
-        function deriveKey(secret) {
-            const encoder = new TextEncoder();
-            return crypto.subtle.digest('SHA-256', encoder.encode(secret));
-        }
-
-        async function decryptPayload(secret) {
-            try {
-                const keyBuffer = await deriveKey(secret);
-                const keyArray = new Uint8Array(keyBuffer);
-                const binaryStr = atob(ENCRYPTED_PAYLOAD);
-                const bytes = new Uint8Array(binaryStr.length);
-                for (let i = 0; i < binaryStr.length; i++) {
-                    bytes[i] = binaryStr.charCodeAt(i) ^ keyArray[i % keyArray.length];
-                }
-                return JSON.parse(new TextDecoder('utf-8').decode(bytes));
-            } catch (e) {
-                console.error('Decryption error:', e);
-                return null;
-            }
         }
 
         function formatBRL(val) {
