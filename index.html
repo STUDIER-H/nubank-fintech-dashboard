@@ -34,10 +34,15 @@
             visibility: hidden !important;
             opacity: 0 !important;
         }
-        #modal-auth {
+        html:not(.authenticated) #modal-auth {
             display: flex !important;
             visibility: visible !important;
             opacity: 1 !important;
+        }
+        html.authenticated #modal-auth {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
         }
     </style>
     <style>
@@ -521,7 +526,7 @@
                 }
 
                 const modal = document.getElementById('modal-auth');
-                if (modal) modal.classList.add('hidden');
+                if (modal) { modal.classList.add('hidden'); modal.style.display = 'none'; }
                 if (err) err.classList.add('hidden');
 
                 rawData = await decryptPayload(PAYLOAD_SECRET);
@@ -889,7 +894,7 @@
 
             if (isAuth === 'true' && savedEmail && ALLOWED_EMAILS.includes(savedEmail)) {
                 document.documentElement.classList.add('authenticated');
-                if (modal) modal.classList.add('hidden');
+                if (modal) { modal.classList.add('hidden'); modal.style.display = 'none'; }
                 
                 const badge = document.getElementById('user-badge');
                 const badgeEmail = document.getElementById('user-badge-email');
